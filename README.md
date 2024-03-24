@@ -171,6 +171,7 @@ Contents
   * [Applitools.com](https://applitools.com/) — smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
 
 ## Security and PKI
+![xUySTua4GoZwIsH2zm (2)](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/218ed9b7-77d3-4d62-8ada-a3686b405f72)
 
   * [pyup.io](https://pyup.io) — Monitory Python dependencies for security vulnerabilites and update them automatically. Free for one private project, unlimited projects for open source.
   * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
