@@ -1,4 +1,4 @@
-# Aman-OpenSource
+# Aman Mehta-OpenSource
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
 ![1rPXcTh9YjMcMuRal5](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/8f60fa5e-c4d8-4b72-9eb1-ee5c5bb865ff)
