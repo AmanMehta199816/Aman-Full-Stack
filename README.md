@@ -223,6 +223,8 @@ Contents
   * [instant.cm](https://instant.cm/) — Free for up to 2 languages and 20,000 requests/month
 
 ## Monitoring
+![WOTMQFQQT6bJp0HNDf](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/92bad8bc-a638-4416-919f-918efd78bc81)
+![Uploading WOTMQFQQT6bJp0HNDf.gif…]()
 
   * [cloudsploit.com](https://cloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
   * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
