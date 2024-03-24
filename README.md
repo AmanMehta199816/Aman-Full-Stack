@@ -375,6 +375,7 @@ Contents
   * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50,000 API calls, 100 GB data transfer and 1 GB storage for free
 
 ## Web Hosting
+![ScaKyqnCrQM4U](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/95597b37-f7ae-42cd-81a6-ce12086dece5)
 
   * [closeheat.com](https://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
   * [serverpilot.io](https://serverpilot.io/) ServerPilot, and we'll install everything you need to host PHP apps like WordPress. Unlimited servers, 1 SSH/SFTP user
