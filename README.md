@@ -278,6 +278,7 @@ Contents
   * [indexisto.com](https://indexisto.com/) — Site search, free 10 million documents index limit with advertisement block
 
 ## Email
+![aOften89vRbG](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/a8644119-bf56-45da-b7df-e8094b4e18cc)
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month free
