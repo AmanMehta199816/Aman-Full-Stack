@@ -264,6 +264,7 @@ Contents
   * [monique.io](https://monique.io) — Create dashboards directly from SQL results, JSON data, API respones, Unix commands' output. Define alarms in Javascript. Free for 25000 submissions per month.
 
 ## Crash and Exception Handling
+![zMukICnMEZmSf8zvXd](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/eedf260e-c2e9-4ce6-96d6-9947a58e1076)
 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
