@@ -574,6 +574,7 @@ Contents
   * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
 ## Payment / Billing Integration
+![7JQENFRsFerJ1EojJP](https://github.com/AmanMehta199816/Aman-Full-Stack/assets/96304523/1c2d7ca7-b4da-4be1-81d5-1ed02da95f31)
 
   * [braintreepayments.com](https://braintreepayments.com/) — Credit Card, Paypal, Venmo, Bitcoin, Apple Pay,... integration. Single and Recurrent Payments. First USD 50,000 free
   * [taxratesapi.avalara.com](http://taxratesapi.avalara.com/) — Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required
